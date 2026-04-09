@@ -15,3 +15,30 @@ Modified by: [ViquinhoDev](https://github.com/ViquinhoDev)
 * [Click Here to access directly on Codepen](https://codepen.io/ViquinhoDev/pen/MYjqQYL)
 * [Click Here to access directly on Github](https://github.com/ViquinhoDev/TABOI-craft)
 * [Click Here to access the page](https://viquinhodev.github.io/TABOI-craft/)
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone [https://link-to-project](https://github.com/ViquinhoDev/TABOI-craft)
+```
+
+Go to the project directory
+
+```bash
+  cd TABOI-craft
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run start
+```
+
