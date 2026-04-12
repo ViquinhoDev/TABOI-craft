@@ -42,4 +42,13 @@ Start the server
 ```bash
   npm run start
 ```
+# Other versions
+
+| Number | Version Description | Link |
+| :--- | :--- | :--- |
+| 1 | Minecraft Classic | [link (codepen)](https://codepen.io/ViquinhoDev/pen/raMQWXB) |
+| 2 | Minecraft - Eaglercraft | [link (codepen)](https://codepen.io/ViquinhoDev/pen/EagONBj) |
+| 3 | Minecraft custom buttons | [link (codepen)](https://codepen.io/ViquinhoDev/pen/PwGxbVO) |
+| 4 | TABOI-craft inglish version | [link (codepen](https://codepen.io/ViquinhoDev/pen/LERJQNN) |
+| 5 | TABOI-craft portuguese version | [link (codepen)](https://codepen.io/ViquinhoDev/pen/MYjqQYL) |
 
