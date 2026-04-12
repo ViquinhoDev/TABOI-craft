@@ -3,7 +3,7 @@
 
 _A simple copy of Minecraft made in HTML, CSS, and JS._
 
-Link: [Click Here to access. (CODEPEN)](https://codepen.io/ViquinhoDev/pen/MYjqQYL)
+Link: [Click Here to access.](https://viquinhodev.github.io/TABOI-craft/)
 
 ---
 
