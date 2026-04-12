@@ -1,4 +1,4 @@
-# TABOI-craft
+[TABOI-CRAFT](taboi-craft-12-04-2026 (1).png)
 
 _A simple copy of Minecraft made in HTML, CSS, and JS._
 
