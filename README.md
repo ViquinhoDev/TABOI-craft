@@ -1,4 +1,5 @@
-[TABOI-CRAFT](logo/taboi-logo.png)
+<img width="1024" height="248" alt="taboi-craft-12-04-2026 (1)" src="https://github.com/user-attachments/assets/51b4e805-8126-4468-b1b8-94c593a9db90" />
+
 
 _A simple copy of Minecraft made in HTML, CSS, and JS._
 
